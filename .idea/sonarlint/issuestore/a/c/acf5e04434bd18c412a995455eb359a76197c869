@@ -1,0 +1,7 @@
+
+F
+java:S2140")Use "java.util.Random.nextInt()" instead.(ãÓÄ8¸ï–µî.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(öİ”ºùÿÿÿÿ8¹¦ú´î.
+K
+java:S2140$")Use "java.util.Random.nextInt()" instead.(ŠÖàşÿÿÿÿ8ƒ¹¡µî.
